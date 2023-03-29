@@ -5,7 +5,7 @@ Sara Yumi Sassamoto Kurokawa
 Gaurisha Bhatt  
 Gian de Lima Santos  
 Roberto Silvestro  
-Sylvain Dela-grange  
+Sylvain Delagrange  
 Sergio Rossi 
 
 ## Getting started  
