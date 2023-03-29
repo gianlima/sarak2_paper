@@ -1,7 +1,12 @@
 ## Manuscript: Measuring natural sap production in sugar maple at high temporal resolution
 
 ## Authors
-Sara Yumi Sassamoto Kurokawa, Gaurisha Bhatt, Gian de Lima Santos, Roberto Silvestro, Sylvain Dela-grange and Sergio Rossi 
+Sara Yumi Sassamoto Kurokawa  
+Gaurisha Bhatt  
+Gian de Lima Santos  
+Roberto Silvestro  
+Sylvain Dela-grange  
+Sergio Rossi 
 
 ## Getting started  
 
